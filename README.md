@@ -1,7 +1,27 @@
 # 💫 About Me:
 Hello! I’m **Ishaan Chadha**—a UCSD graduate and Software Engineer at TipTop Technologies.
 
-🔬 I’m currently working on:<br>- Designing and deploying AI-driven analytics for TipTop’s core platform.<br>  <br>👯‍♀️ I’m looking to collaborate on:<br>- Data science and machine learning projects, particularly those involving neural networks, computer vision, and NLP.<br><br>🤝 I’m looking for help with:<br>- Building more scalable cloud-based solutions and enhancing web development frameworks using AWS or similar cloud services.<br><br>🌱 I’m currently learning:<br>- Optimizing convolutional neural networks for real-time data analysis.<br>- Advanced AI applications in neural data science and cognitive research.<br><br>💬 Ask me about:<br>- Machine learning model optimization, data-driven decision making, or how to streamline web scraping processes for large-scale data extraction.<br>  <br>⚡ Fun fact:<br>- I once led a project that used OpenAI's API to create hybrid dinosaur visuals from two species' images!
+🔬 I’m currently working on:<br>
+- Designing and deploying AI-driven analytics pipelines for TipTop’s core platform.<br>
+- Building and scaling AWS-based data pipelines for real-time processing.<br>
+- Integrating machine learning models into production services.<br><br>
+
+👯‍♀️ I’m looking to collaborate on:<br>
+- Data science and machine learning projects, particularly those involving neural networks, computer vision, and NLP.<br><br>
+
+🤝 I’m looking for help with:<br>
+- Building more scalable cloud-based solutions and enhancing web development frameworks using AWS or similar cloud services.<br><br>
+
+🌱 I’m currently learning:<br>
+- Optimizing convolutional neural networks for real-time data analysis.<br>
+- Advanced AI applications in neural data science and cognitive research.<br><br>
+
+💬 Ask me about:<br>
+- Machine learning model optimization, data-driven decision making, or how to streamline web scraping processes for large-scale data extraction.<br><br>
+
+⚡ Fun fact:<br>
+- I once led a project that used OpenAI's API to create hybrid dinosaur visuals from two species' images!
+
 
 
 ## 🌐 Socials:
