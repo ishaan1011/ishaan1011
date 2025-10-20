@@ -1,15 +1,20 @@
 # 💫 About Me:
+Hello! I’m **Ishaan Chadha**—a UCSD graduate and Software Engineer at TipTop Technologies.
 
-🎯 I’m currently working on<br>Building Comm360, an AI-powered platform that turns workplace communication into actionable insights. Our avatars can join meetings, summarize discussions, capture action items, and provide translations in real time.<br>
+🔬 I’m currently working on:<br>
+- Building Comm360, an AI-powered platform that turns workplace communication into actionable insights. Our avatars can join meetings, summarize discussions, capture action items, and provide translations in real time. <br><br>
 
-🤝 I’m looking to collaborate on<br>AI-driven communication products, real-time collaboration tools, and next-generation meeting intelligence platforms.<br>🚀
+👯‍♀️ I’m looking to collaborate on:<br>
+- Someone passionate about building AI infrastructure, real-time systems, or enterprise SaaS — ideally with experience in ML engineering, product, or growth.<br><br>
 
-I’m looking for a cofounder<br>Someone passionate about building AI infrastructure, real-time systems, or enterprise SaaS — ideally with experience in ML engineering, product, or growth.<br>🌱 I’m currently learning<br>Optimizing real-time AI inference, GPU deployment pipelines, and large-scale WebRTC architecture.<br>
+🤝 I’m looking for a cofounder:<br>
+- AI-driven communication products, real-time collaboration tools, and next-generation meeting intelligence platforms.<br><br>
 
-💬 Ask me about<br>Machine learning, NLP, computer vision, or full-stack AI product development using Python, Node.js, and React.<br>
+💬 Ask me about:<br>
+- Machine learning model optimization, data-driven decision making, or how to streamline web scraping processes for large-scale data extraction.<br><br>
 
-⚡ Fun fact<br>I built a system that collects 300+ LinkedIn leads daily with humanized automation — no scraping, just creativity.
-
+⚡ Fun fact:<br>
+- I built a system that collects 300+ LinkedIn leads daily with humanized automation — no scraping, just creativity.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ishaan_1011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaanchadha-ucsd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ishaan___Chadha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ichadha.work@gmail.com) 
