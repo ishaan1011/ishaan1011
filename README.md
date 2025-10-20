@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m **Ishaan Chadha**—a UCSD graduate and Software Engineer at TipTop Technologies.
+Hello! I’m **Ishaan Chadha**—the Founder of Comm360.
 
 🔬 I’m currently working on:<br>
 - Building Comm360, an AI-powered platform that turns workplace communication into actionable insights. Our avatars can join meetings, summarize discussions, capture action items, and provide translations in real time. <br><br>
