@@ -1,6 +1,14 @@
 # 💫 About Me:
 
-🎯 I’m currently working on<br>Building Comm360, an AI-powered platform that turns workplace communication into actionable insights. Our avatars can join meetings, summarize discussions, capture action items, and provide translations in real time.<br>🤝 I’m looking to collaborate on<br>AI-driven communication products, real-time collaboration tools, and next-generation meeting intelligence platforms.<br>🚀 I’m looking for a cofounder<br>Someone passionate about building AI infrastructure, real-time systems, or enterprise SaaS — ideally with experience in ML engineering, product, or growth.<br>🌱 I’m currently learning<br>Optimizing real-time AI inference, GPU deployment pipelines, and large-scale WebRTC architecture.<br>💬 Ask me about<br>Machine learning, NLP, computer vision, or full-stack AI product development using Python, Node.js, and React.<br>⚡ Fun fact<br>I built a system that collects 300+ LinkedIn leads daily with humanized automation — no scraping, just creativity.
+🎯 I’m currently working on<br>Building Comm360, an AI-powered platform that turns workplace communication into actionable insights. Our avatars can join meetings, summarize discussions, capture action items, and provide translations in real time.<br>
+
+🤝 I’m looking to collaborate on<br>AI-driven communication products, real-time collaboration tools, and next-generation meeting intelligence platforms.<br>🚀
+
+I’m looking for a cofounder<br>Someone passionate about building AI infrastructure, real-time systems, or enterprise SaaS — ideally with experience in ML engineering, product, or growth.<br>🌱 I’m currently learning<br>Optimizing real-time AI inference, GPU deployment pipelines, and large-scale WebRTC architecture.<br>
+
+💬 Ask me about<br>Machine learning, NLP, computer vision, or full-stack AI product development using Python, Node.js, and React.<br>
+
+⚡ Fun fact<br>I built a system that collects 300+ LinkedIn leads daily with humanized automation — no scraping, just creativity.
 
 
 ## 🌐 Socials:
