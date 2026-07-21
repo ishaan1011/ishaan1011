@@ -1,14 +1,8 @@
 # 💫 About Me:
-Hello! I’m **Ishaan Chadha**—the Founder of Comm360.
+Hello! I’m **Ishaan Chadha**—a software engineer at Centralize.
 
 🔬 I’m currently working on:<br>
-- Building Comm360, an AI-powered platform that turns workplace communication into actionable insights. Our avatars can join meetings, summarize discussions, capture action items, and provide translations in real time. <br><br>
-
-👯‍♀️ I’m looking to collaborate on:<br>
-- Someone passionate about building AI infrastructure, real-time systems, or enterprise SaaS — ideally with experience in ML engineering, product, or growth.<br><br>
-
-🤝 I’m looking for a cofounder:<br>
-- AI-driven communication products, real-time collaboration tools, and next-generation meeting intelligence platforms.<br><br>
+- Building the relationship knowledge graph at Centralize. <br><br>
 
 💬 Ask me about:<br>
 - Machine learning model optimization, data-driven decision making, or how to streamline web scraping processes for large-scale data extraction.<br><br>
